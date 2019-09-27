@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="signup">Sign Up</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="social_media">Or using social media</string>
+    <string name="already_account">Already have an account ? Sign In</string>
+</resources>
